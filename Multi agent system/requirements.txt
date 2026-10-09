@@ -1,0 +1,41 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# Mistral AI
+langchain-mistralai
+mistralai
+
+# Groq
+langchain-groq
+groq
+
+# Agent / Graph Orchestration
+langgraph
+langgraph-prebuilt
+
+# Web Search
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Environment Variables
+python-dotenv
+
+# HTML Parsing
+lxml
+
+# HTTP Client
+httpx
+
+# Terminal / Output Formatting
+rich
+
+# Groq LLM
+langchain-groq
+
+# UI
+streamlit
